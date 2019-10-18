@@ -1,0 +1,201 @@
+{
+  "project_info": {
+    "project_number": "437989249234",
+    "firebase_url": "https://shoppingcentro-154917.firebaseio.com",
+    "project_id": "shoppingcentro-154917",
+    "storage_bucket": "shoppingcentro-154917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437989249234:android:fa81e220fdc2344e",
+        "android_client_info": {
+          "package_name": "com.bilac.br.mobbieuber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLPFGIR__nNaT3LcAn1qLC2Z9Xdke_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437989249234:android:77bf669a42cc678a",
+        "android_client_info": {
+          "package_name": "com.bilac.br.sauber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLPFGIR__nNaT3LcAn1qLC2Z9Xdke_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437989249234:android:733427646bd10b37",
+        "android_client_info": {
+          "package_name": "com.universidade.br.Firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLPFGIR__nNaT3LcAn1qLC2Z9Xdke_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437989249234:android:19e7cade99407cb5",
+        "android_client_info": {
+          "package_name": "com.universidade.br.crudfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLPFGIR__nNaT3LcAn1qLC2Z9Xdke_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437989249234:android:d937f826c953d03b",
+        "android_client_info": {
+          "package_name": "com.universidade.br.localizacaofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437989249234-9t1bg4kl67u3031d66rs1mc7haur3fbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.universidade.br.localizacaofirebase",
+            "certificate_hash": "2deb9b133df0efdb2ec71a5adf07dde0962ad45e"
+          }
+        },
+        {
+          "client_id": "437989249234-95r5tkv4pnhilpifuuvjhkkql72bpv5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.universidade.br.localizacaofirebase",
+            "certificate_hash": "ef28aa5011fe3ec45e0ff307072fbb08bb643b4c"
+          }
+        },
+        {
+          "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLPFGIR__nNaT3LcAn1qLC2Z9Xdke_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437989249234:android:1923a6d392b6d1f4",
+        "android_client_info": {
+          "package_name": "com.universidade.br.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABqLPFGIR__nNaT3LcAn1qLC2Z9Xdke_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437989249234-pakju4c27uuudvjdso52dheu1ro9amm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
